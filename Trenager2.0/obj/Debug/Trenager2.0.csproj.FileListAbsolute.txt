@@ -1,0 +1,7 @@
+c:\users\jjerm\Desktop\Trenager2.0\Trenager2.0\bin\Debug\Trenager2.0.exe.config
+c:\users\jjerm\Desktop\Trenager2.0\Trenager2.0\bin\Debug\Trenager2.0.exe
+c:\users\jjerm\Desktop\Trenager2.0\Trenager2.0\bin\Debug\Trenager2.0.pdb
+c:\users\jjerm\Desktop\Trenager2.0\Trenager2.0\obj\Debug\Trenager2.0.csprojResolveAssemblyReference.cache
+c:\users\jjerm\Desktop\Trenager2.0\Trenager2.0\obj\Debug\Trenager2.0.csproj.CoreCompileInputs.cache
+c:\users\jjerm\Desktop\Trenager2.0\Trenager2.0\obj\Debug\Trenager2.0.exe
+c:\users\jjerm\Desktop\Trenager2.0\Trenager2.0\obj\Debug\Trenager2.0.pdb
